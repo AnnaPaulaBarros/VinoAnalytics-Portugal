@@ -1,4 +1,4 @@
-# 🍷 VinoAnalytics Portugal
+# VinoAnalytics Portugal
 
 Este projeto realiza a estruturação e análise visual da produção vinícola de Portugal, integrando SQL Server, Python e Streamlit.
 
